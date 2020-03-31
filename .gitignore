@@ -68,3 +68,7 @@ node_modules/
 
 ServiceAccountKey.json
 /Users/Hi/Desktop/App/Social-Ape/ServiceAccountKey.json
+
+#Config
+
+/Users/Hi/Desktop/App/Social-Ape/functions/util/config.js
